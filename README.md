@@ -3,6 +3,9 @@
 Description
 As a learning developer, I was taught to use the CSS box model properties to position four boxes inside a frame. Here are my results and research findings.
 
+Link to result:
+https://arionitas.github.io/CSS-Box-Model/
+
 Support
 You can go to a few different sources to find out more if you are interested. This is the learning curve I took to enhance my own knowledge on the subject of CSS BOX MODELS.
 
