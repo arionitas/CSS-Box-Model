@@ -31,7 +31,7 @@ Authors and acknowledgment
 Thank you to Junghoon Yoon, my mentor on the edX Bootcamp course for Front-End Web Development. He not only covers the basics really well, but also makes the more advanced stuff feel fun. Which I find to be an extremely difficult task, considering coding is one of the tougher concepts to grasp. Also a big thank you to my friend on the course, Ian Scott, who walked me through these steps using the 'Share-Screen' function on zoom and using his prior knowledge of coding languages, explained in great detail so I could better understand the concept of the CSS-Box-Model. 
 
 License
-No License, feel free to enjoy / mess around!
+MIT
 
 Project status
 A learning brief.
